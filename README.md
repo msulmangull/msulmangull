@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sulmangull@gmail.com**
 
-- 📄 Know about my experiences [https://maroon-karisa-18.tiiny.site](https://maroon-karisa-18.tiiny.site)
+- 📄 Know about my experiences [Resume](https://maroon-karisa-18.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
