@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **PrixMarkeet and Prouman**
 
-- 👨‍💻 All of my projects are available at [https://techoship.com/portfolio/](https://techoship.com/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://msulmangull.github.io/)
 
 - 💬 Ask me about **Android, IOS, Flask, JAVA, Kotlin, Swift, and SwiftUI**
 
