@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I believe everything is possible while developing a product with some limitations.   
   
 
-- 🔗 Visit My Portfolio to know more about me. [My Portfoli](https://msulmangull.github.io)  
+- 🔗 Visit My Portfolio to know more about me. [Portfolio](https://msulmangull.github.io)  
   
 
 <br/>  
@@ -59,6 +59,7 @@
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
 </td></tr></table>  
