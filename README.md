@@ -120,4 +120,4 @@
             </a></div>
 <br />
 
-<img src="coding.gif" align="left" style="width: 80%" />  
+<img src="coding.gif" align="left" style="width: 100%" />  
