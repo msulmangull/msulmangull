@@ -101,7 +101,7 @@
 
 <br/>  
 
-<img src="coding.gif" align="left" style="width: 100%" />  
+
   
 
 <div align="center">
@@ -119,3 +119,5 @@
                 />
             </a></div>
 <br />
+
+<img src="coding.gif" align="left" style="width: 80%" />  
