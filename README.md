@@ -18,6 +18,9 @@
 - ⚡ Fun fact: I believe everything is possible while developing a product with some limitations.   
   
 
+- 🔗 Visit My Portfolio to know more about me. [My Portfoli](https://msulmangull.github.io)  
+  
+
 <br/>  
 
 
@@ -99,10 +102,14 @@
 
 <br/>  
 
+<img src="coding.gif" align="left" style="width: 100%" />  
+  
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=msulmangull&&style=flat-square" align="center" />
 </div>  
   
+
 <br/>  
 
 <div align="center">
@@ -113,4 +120,3 @@
                 />
             </a></div>
 <br />
-<img src="coding.gif" align="left" style="width: 100%" />
