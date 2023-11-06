@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Muhammad Sulman Gull a passionate Native Mobile app and Web developer from Pakistan.</div>  
+### <div align="center">Hi 👋, I'm Muhammad Sulman Gull a passionate Mobile app developer from Pakistan.</div>  
   
 
-- 🔭 I’m currently working on [PrixMarkeet](https://github.com/Techoship/PrixMarket.git) and [Prouman](https://github.com/Techoship/Prouman-IOS.git)  
+<!-- - 🔭 I’m currently working on [PrixMarkeet](https://github.com/Techoship/PrixMarket.git) and [Prouman](https://github.com/Techoship/Prouman-IOS.git)   -->
   
 
-- 🌱 I’m currently learning Frontend Web Development  
+- 🌱 I’m currently Kotlin Multiplatform 
   
 
-- ❓ Ask me about anything related to Python, Flask, IOS, Android, Java, Kotlin, Swift, SwiftUI, and App Stores.  
+- ❓ Ask me about anything related to IOS Development, Android Development, Java, Kotlin, Swift, SwiftUI, and App Stores.  
   
 
 - ⚡ Fun fact: I believe everything is possible while developing a product with some limitations.   
