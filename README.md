@@ -9,10 +9,10 @@
 <!-- - 🔭 I’m currently working on [PrixMarkeet](https://github.com/Techoship/PrixMarket.git) and [Prouman](https://github.com/Techoship/Prouman-IOS.git)   -->
   
 
-- 🌱 I’m currently Kotlin Multiplatform 
+- 🌱 I’m currently Working on Pubflence and MyBurdee
   
 
-- ❓ Ask me about anything related to IOS Development, Android Development, Java, Kotlin, Swift, SwiftUI, and App Stores.  
+- ❓ Ask me about anything related to IOS Development, Android Development, Flutter, Java, Kotlin, Swift, SwiftUI, Dart, and App Stores.  
   
 
 - ⚡ Fun fact: I believe everything is possible while developing a product with some limitations.   
