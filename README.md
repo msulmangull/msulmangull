@@ -121,3 +121,4 @@
 <br />
 
 <img src="coding.gif" align="left" style="width: 100%" />  
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
