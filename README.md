@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">Muhammad Sulman Gull</h3>
-<p align="center">Senior Mobile Engineer · Flutter, native iOS and Android<br>Programming Manager at SAMFA Technologies · founder of <a href="https://techoship.com/?utm_source=github&utm_medium=profile">Techoship LLC</a></p>
+<p align="center">Full Stack Product Engineer at <a href="https://techoship.com/?utm_source=github&utm_medium=profile">Techoship LLC</a> and SAMFA Technologies</p>
 
 ---
 
