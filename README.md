@@ -8,8 +8,8 @@
 ---
 
 I've been shipping production apps for seven years, since 2019: Flutter where one codebase serves both platforms, Swift and
-Kotlin where it doesn't, and the backends and admin consoles behind them. I lead mobile delivery at SAMFA
-Technologies, run my own product studio, and take on freelance work.
+Kotlin where it doesn't, and the backends and admin consoles behind them. I work at SAMFA
+Technologies, run my own product studio, Techoship LLC, and freelance on Upwork and Fiverr.
 
 Most of that code is under contract and stays private. My apps, past projects and experience are on
 **[msulmangull.github.io](https://msulmangull.github.io)**, and the full case studies are at
