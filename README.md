@@ -3,42 +3,46 @@
 </div>
 
 <h3 align="center">Muhammad Sulman Gull</h3>
-<p align="center">I build mobile apps, SaaS platforms and AI systems — and ship them.</p>
+<p align="center">Senior Mobile Engineer · Flutter, native iOS and Android<br>Programming Manager at SAMFA Technologies · founder of <a href="https://techoship.com/?utm_source=github&utm_medium=profile">Techoship LLC</a></p>
 
 ---
 
-Five years building production software for founders and businesses. Native iOS and
-Android, Flutter, and the backends and admin consoles behind them. Several of the
-products below are live on both app stores.
+I've been shipping production apps since 2019: Flutter where one codebase serves both platforms, Swift and
+Kotlin where it doesn't, and the backends and admin consoles behind them. I lead mobile delivery at SAMFA
+Technologies, run my own product studio, and take on freelance work.
 
-Most of my work is under contract and stays private, so this profile is a summary
-rather than a code archive. The full case studies are at **[techoship.com](https://techoship.com)**.
+Most of that code is under contract and stays private. My apps, past projects and experience are on
+**[msulmangull.github.io](https://msulmangull.github.io)**, and the full case studies are at
+[techoship.com](https://techoship.com/work?utm_source=github&utm_medium=profile).
 
-**Currently:** Programming Manager, Mobile Apps at SAMFA Technologies · freelancing on
-Upwork and Fiverr · building **Frendex**, launching soon.
+### Open source
 
-### What I work on
+- **[Random URL Reloader](https://github.com/Techoship/random-url-reloader)**: a Manifest V3 Chrome extension that reloads pages on your own schedule, one session per tab. It's vanilla JS that survives service-worker suspension.
 
-- **AI in real products** — assistants over a business's own data, speech-to-task,
-  image generation with server-side keys and verified purchases. Not chatbot demos.
-- **Mobile** — Flutter, and native Swift/Kotlin when the hardware demands it.
-- **Backends** — NestJS, FastAPI, Django. Two live products migrated off Python to
-  NestJS without downtime.
-- **The parts people forget** — payments, offline-first data, app store submission,
-  and the admin console someone has to run the business from.
+### My own apps on Google Play
 
-### Recent work
+- **[Focusara](https://play.google.com/store/apps/details?id=com.techoship.focusara)**: a wellbeing coach whose AI runs entirely on the phone, in Flutter with Gemma 3.
+- **[Zimmati](https://play.google.com/store/apps/details?id=com.techoship.zimmati)**: expense splitting with a ledger that can't drift.
+- **[Qorvyn Run](https://play.google.com/store/apps/details?id=com.techoship.qorvynrun)**: a 2D platformer built with Flutter and Flame.
+
+### Client work, named with permission
 
 | | |
 |---|---|
-| AI interior redesign | native iOS + Android over one API, both stores, in-app purchases |
-| Shift staffing platform | Next.js console, Flutter apps, Stripe payouts — in production |
-| Offline-first POS & ERP | 21 industry configurations, desktop and mobile, no internet required |
-| Drone escort for campus safety | real flight-SDK integration, four codebases |
-| Restaurant platform | floor plan, table service, bank payouts, four surfaces |
-| AI project management | voice to task in Arabic and English, full RTL |
+| [Firnela](https://techoship.com/work/shift-staffing-platform?utm_source=github&utm_medium=profile) | Hospitality staffing marketplace: Flutter apps, a Next.js console, a NestJS API and 28 scheduled jobs |
+| [Heyday City Guides](https://techoship.com/work/local-discovery-platform?utm_source=github&utm_medium=profile) | What's on tonight: Flutter app, a 69k-line Flutter Web console, NestJS |
+| [Tended Health Pro](https://techoship.com/work/dementia-caregiving-app?utm_source=github&utm_medium=profile) | Dementia caregiving app: native Android shell, Google Play Billing from a web page, Emergency Mode |
 
-Client names withheld by agreement. Detail, screens and architecture at [techoship.com](https://techoship.com).
+More under NDA, with client names withheld: AI interior redesign on native iOS and Android, an offline-first
+POS and ERP, a drone escort for campus safety, voice-to-task project management in Arabic and English, and a
+restaurant platform. All are at [techoship.com/work](https://techoship.com/work?utm_source=github&utm_medium=profile).
+
+### What I work on
+
+- **AI in real products:** on-device models, speech to task, image generation behind server-side keys and verified purchases. Not chatbot demos.
+- **Mobile:** Flutter, and native Swift and Kotlin when the hardware demands it.
+- **Backends:** NestJS, Next.js, FastAPI, Django. I've moved two live products from Python to NestJS without downtime.
+- **The parts people forget:** payments, offline data, store review, and the admin console someone has to run the business from.
 
 ### Stack
 
@@ -48,12 +52,13 @@ Client names withheld by agreement. Detail, screens and architecture at [techosh
 
 ### Track record
 
-`5.0 ★ from 119 reviews` · `150+ orders` · `100% on-time delivery` · `Top Rated on Upwork`
+`5.0 ★ on Fiverr from 120 reviews` · `150+ orders` · `100% on-time delivery` · `Top Rated on Upwork`
 
 ---
 
 <div align="center">
-  <a href="https://techoship.com"><b>techoship.com</b></a> ·
+  <a href="https://msulmangull.github.io"><b>msulmangull.github.io</b></a> ·
+  <a href="https://techoship.com/?utm_source=github&utm_medium=profile">techoship.com</a> ·
   <a href="https://www.linkedin.com/in/msulmangull">LinkedIn</a> ·
   <a href="https://twitter.com/msulmangull">X</a>
 </div>
