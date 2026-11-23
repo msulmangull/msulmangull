@@ -17,6 +17,9 @@ Most of that code is under contract and stays private. My apps, past projects an
 
 ### Open source
 
+Created and maintained by me, published under [Techoship](https://github.com/Techoship):
+
+- **[Android WebView Bridge](https://github.com/Techoship/android-webview-bridge)**: makes a web app work inside an Android WebView. `window.print()` opens the print dialog, blob, data and link downloads land in Downloads, and the page can sell through Google Play Billing. Kotlin, MIT.
 - **[Random URL Reloader](https://github.com/Techoship/random-url-reloader)**: a Manifest V3 Chrome extension that reloads pages on your own schedule, one session per tab. It's vanilla JS that survives service-worker suspension.
 
 ### My own apps on Google Play
